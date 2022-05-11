@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.portfolio{
+    position: absolute;
+    top: 50px;
+    left: 120px;
+    height: 80px;
+}
+
+.home{
+    position: absolute;
+    color: #11324D;
+    top: 75px;
+    left: 470px;
+    font-size: 22px;
+    text-decoration: initial;
+}
+
+.about{
+    position: absolute;
+    color: #11324D;
+    top: 75px;
+    left: 727px;
+    font-size: 22px;
+    text-decoration: initial;
+}
+
+.mail{
+    position: absolute;
+    color: #11324D;
+    top: 75px;
+    left: 1022px;
+    font-size: 22px;
+    text-decoration: initial;
+}
+
+.follow{
+    position: absolute;
+    color: #11324D;
+    top: 75px;
+    left: 1265px;
+    font-size: 25px;
+    text-decoration: initial;
+}
+
+.background{
+    width: 100%;
+    height: auto;
+}
+
+.intro{
+    position: absolute;
+    top: 170px;
+    left: 650px;
+    right: 650px;
+}
+
+.intro1{
+    position: absolute;
+    top: 333px;
+    left: 455px;
+    right: 490px;
+    line-height: 1.7;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-family: 'Comic Neue', cursive;
+    color: #11324D;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Patrick Hand', cursive;
+    color: #11324D;
+    padding-top: 15px;
+    font-size: 20px;
+    width: 40%;
+}
+
+h3{
+    margin-top: 40px;
+    text-decoration: underline;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 45px;
+}
+
+.profile{
+    font-family: 'Itim', cursive;
+    font-size: 150%;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    top: 560px;
+    left: 350px;
+    right: 350px;
+}
+
+.my_pic{
+    height: 350px;
+    align-items: center;
+}
+
+.hr{
+    position: absolute;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 10px;
+    width: 10%;
+    top: 1300px;
+    left: 675px;
+}
+
+.message{
+    position: absolute;
+    top: 1380px;
+    left: 468px;
+    right: 490px;
+    line-height: 1.7;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 25px;
+    list-style: none;
+}
+
+.linked{
+    position: absolute;
+    color: #0e76a8;
+    top: 1560px;
+    left: 900px;
+    font-size: 25px;
+    text-decoration: initial;
+}
+
+.instagram{
+    position: absolute;
+    color: #bc2a8d;
+    top: 1560px;
+    left: 700px;
+    font-size: 25px;
+    text-decoration: initial;
+}
+
+#twitter{
+    position: absolute;
+    color: #00acee;
+    top: 1560px;
+    left: 500px;
+    font-size: 25px;
+    text-decoration: initial;
+}
